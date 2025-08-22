@@ -1,19 +1,6 @@
-# Assignment: Better semantics
+# Opdracht: Better semantics
 
-*PLEASE READ THIS **ENTIRE** DOCUMENT FIRST*
+Zorg dat [deze opdracht](https://cmd-viscom.gitbook.io/1-1-mmt1/lesprogramma/2-html-en-semantiek/voorbereiding#opdracht-b-better-semantics) lokaal werkt.
 
-## The assignment
-
-Download this repo and run this project locally. The index.html uses several HTML tags that aren't that semantic (like span and div). Replace those tags with these more [semantic](https://www.w3schools.com/html/html5_semantic_elements.asp) tags:
-
-- header
-- main
-- footer
-- strong
-- h1
-- h2
-
-Only replace HTML tags, do *not* edit the CSS code!
-
-If you replaced the tags correctly the result should look like this:
-![end result](/assignment/endresult.png)
+## Inleveren
+Je hoeft deze opdracht nog niet via de "GitHub manier" in te leveren.
